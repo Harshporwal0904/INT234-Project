@@ -1,0 +1,1001 @@
+AI_Usage_Freq,AI_Task_Type,AI_Confidence,Willingness_To_Adopt,Time_Saved_Daily,AI_Usefulness,Comfort_Using_AI,Trust_Accuracy,Trust_Accuracy_AI,Thinks_AI_Reduces_Skills
+Rarely,Coding,4,5,2 hours,4,Sometimes,Often,3,Yes
+Never,"Creative tasks (stories, ideas, designs)",3,5,> 2 hours,4,No,Always,4,Yes
+Daily,Summarizing content,4,4,1 hours,4,No,Sometimes,3,Maybe
+Never,Summarizing content,4,4,> 2 hours,3,Yes,Never,3,Maybe
+Sometimes,Assignments,4,5,2 hours,2,Yes,Never,3,Yes
+Never,Summarizing content,4,5,2 hours,4,Yes,Sometimes,5,No
+Never,Summarizing content,5,2,1-2 hours,3,Sometimes,Always,3,Yes
+Rarely,"Creative tasks (stories, ideas, designs)",2,4,2 hours,5,Yes,Sometimes,4,Yes
+Daily,"Creative tasks (stories, ideas, designs)",5,4,1-2 hours,5,Sometimes,Always,4,Maybe
+Daily,"Creative tasks (stories, ideas, designs)",4,3,< 30 Minutes,4,No,Never,5,Maybe
+Rarely,Summarizing content,4,4,< 30 Minutes,3,No,Rarely,3,Maybe
+Never,Coding,4,2,2 hours,5,Yes,Sometimes,3,Yes
+Rarely,"Creative tasks (stories, ideas, designs)",5,4,1-2 hours,3,Sometimes,Often,1,Yes
+Sometimes,Summarizing content,4,3,> 2 hours,4,Sometimes,Often,4,Yes
+Sometimes,Assignments,5,2,2 hours,3,Yes,Often,2,Maybe
+Rarely,Coding,4,3,< 30 Minutes,5,Sometimes,Always,3,Maybe
+Frequently,Summarizing content,4,3,> 2 hours,1,Yes,Never,4,Maybe
+Daily,Summarizing content,4,5,1 hours,4,No,Rarely,3,Yes
+Rarely,Assignments,5,3,1 hours,4,No,Rarely,3,Maybe
+Never,Assignments,4,4,< 30 Minutes,5,Sometimes,Always,3,Yes
+Never,Assignments,4,4,1 hours,4,Yes,Rarely,5,Yes
+Sometimes,"Creative tasks (stories, ideas, designs)",5,4,2 hours,4,Yes,Never,5,No
+Daily,Coding,4,5,1-2 hours,4,Sometimes,Never,3,No
+Never,Assignments,5,3,< 30 Minutes,2,Yes,Rarely,4,Maybe
+Sometimes,Assignments,4,4,2 hours,5,Sometimes,Never,3,No
+Rarely,Assignments,4,2,> 2 hours,3,Yes,Sometimes,4,Yes
+Frequently,Summarizing content,4,3,1-2 hours,5,No,Often,4,No
+Sometimes,"Creative tasks (stories, ideas, designs)",4,3,1-2 hours,4,Sometimes,Never,3,Maybe
+Sometimes,Summarizing content,4,4,1 hours,4,Sometimes,Never,5,No
+Daily,"Creative tasks (stories, ideas, designs)",5,5,< 30 Minutes,4,Yes,Sometimes,4,No
+Sometimes,Explanations,3,2,2 hours,4,No,Never,4,Yes
+Rarely,"Creative tasks (stories, ideas, designs)",4,1,1 hours,4,No,Rarely,3,Maybe
+Rarely,"Creative tasks (stories, ideas, designs)",3,4,< 30 Minutes,4,No,Often,3,No
+Never,Explanations,5,5,1 hours,5,Yes,Always,3,No
+Daily,Explanations,5,3,2 hours,4,Sometimes,Sometimes,4,Maybe
+Never,"Creative tasks (stories, ideas, designs)",2,4,1 hours,5,Yes,Never,3,No
+Frequently,"Creative tasks (stories, ideas, designs)",5,5,1 hours,5,Yes,Never,3,Yes
+Daily,Others,2,4,< 30 Minutes,3,No,Never,3,No
+Daily,Explanations,4,2,2 hours,4,No,Sometimes,3,Yes
+Sometimes,"Creative tasks (stories, ideas, designs)",5,4,1-2 hours,4,Sometimes,Sometimes,1,No
+Sometimes,Explanations,4,5,< 30 Minutes,4,Sometimes,Sometimes,3,Maybe
+Frequently,Summarizing content,4,5,> 2 hours,5,Sometimes,Rarely,4,Maybe
+Frequently,Coding,5,2,< 30 Minutes,5,No,Often,5,Yes
+Rarely,"Creative tasks (stories, ideas, designs)",2,5,< 30 Minutes,5,Sometimes,Often,5,Maybe
+Sometimes,Assignments,4,4,> 2 hours,4,Sometimes,Rarely,4,Maybe
+Never,Assignments,5,4,1-2 hours,5,No,Sometimes,3,Maybe
+Daily,"Creative tasks (stories, ideas, designs)",3,4,2 hours,5,No,Rarely,5,Maybe
+Frequently,Others,3,4,< 30 Minutes,5,Yes,Rarely,3,Maybe
+Never,Assignments,5,3,1-2 hours,5,No,Often,3,Maybe
+Daily,Coding,3,4,< 30 Minutes,5,Yes,Rarely,2,Maybe
+Frequently,Assignments,4,4,1-2 hours,4,Yes,Always,5,Maybe
+Daily,Explanations,5,4,1-2 hours,3,No,Rarely,4,Yes
+Daily,Summarizing content,4,3,< 30 Minutes,3,Sometimes,Rarely,5,Yes
+Rarely,"Creative tasks (stories, ideas, designs)",4,3,1 hours,5,Yes,Rarely,5,No
+Rarely,Summarizing content,4,5,2 hours,4,No,Always,3,Maybe
+Daily,Coding,5,5,< 30 Minutes,4,No,Always,4,Maybe
+Frequently,Explanations,4,5,> 2 hours,4,Yes,Sometimes,3,No
+Sometimes,"Creative tasks (stories, ideas, designs)",4,5,1-2 hours,4,No,Sometimes,3,Yes
+Never,"Creative tasks (stories, ideas, designs)",4,4,> 2 hours,4,Sometimes,Always,4,Yes
+Frequently,Summarizing content,5,4,< 30 Minutes,3,Yes,Always,3,Maybe
+Rarely,Assignments,5,5,> 2 hours,3,No,Rarely,4,Maybe
+Frequently,Explanations,3,4,> 2 hours,3,No,Never,3,No
+Rarely,Summarizing content,3,5,1 hours,4,No,Sometimes,2,Maybe
+Daily,Summarizing content,4,4,< 30 Minutes,5,Sometimes,Often,3,No
+Rarely,"Creative tasks (stories, ideas, designs)",5,5,> 2 hours,4,No,Sometimes,3,Maybe
+Rarely,Coding,5,4,2 hours,3,No,Rarely,3,Yes
+Never,Assignments,4,5,> 2 hours,4,No,Often,5,Yes
+Daily,Assignments,3,5,< 30 Minutes,4,Yes,Never,4,Maybe
+Daily,Assignments,4,5,2 hours,3,No,Always,3,No
+Rarely,Others,5,5,1 hours,4,Yes,Never,3,Maybe
+Rarely,"Creative tasks (stories, ideas, designs)",4,5,> 2 hours,5,Yes,Rarely,4,Yes
+Daily,Coding,3,4,> 2 hours,5,No,Rarely,3,Maybe
+Rarely,Others,4,5,1-2 hours,5,No,Rarely,3,No
+Daily,Others,4,5,2 hours,4,Yes,Never,2,Maybe
+Rarely,Coding,4,5,1-2 hours,4,No,Sometimes,4,No
+Never,Coding,4,4,2 hours,4,Yes,Sometimes,4,No
+Rarely,Others,3,5,1 hours,5,No,Rarely,4,Maybe
+Sometimes,Coding,1,4,2 hours,5,No,Rarely,5,No
+Never,Summarizing content,4,4,1 hours,4,No,Sometimes,4,Maybe
+Sometimes,Coding,4,5,< 30 Minutes,5,Sometimes,Often,4,No
+Sometimes,Explanations,4,4,2 hours,3,No,Sometimes,3,Maybe
+Daily,Summarizing content,4,4,1 hours,5,Yes,Often,3,No
+Sometimes,Explanations,5,4,< 30 Minutes,4,Sometimes,Never,4,Yes
+Sometimes,Assignments,5,3,1-2 hours,4,Sometimes,Never,2,Maybe
+Frequently,Explanations,4,5,< 30 Minutes,4,No,Always,5,No
+Sometimes,Others,3,5,2 hours,5,Sometimes,Often,3,No
+Daily,Explanations,3,4,2 hours,4,No,Always,4,Maybe
+Frequently,Coding,5,4,2 hours,2,Yes,Rarely,4,Yes
+Rarely,Explanations,3,5,2 hours,5,No,Never,4,No
+Never,Summarizing content,4,5,1-2 hours,4,Sometimes,Rarely,3,No
+Rarely,Others,4,5,1 hours,4,Yes,Rarely,4,Yes
+Sometimes,Assignments,5,5,> 2 hours,5,Sometimes,Always,4,Maybe
+Never,"Creative tasks (stories, ideas, designs)",5,4,< 30 Minutes,4,Sometimes,Rarely,5,No
+Sometimes,"Creative tasks (stories, ideas, designs)",5,5,< 30 Minutes,5,Yes,Often,4,No
+Rarely,Others,5,4,> 2 hours,5,Yes,Never,3,No
+Never,Others,3,3,> 2 hours,3,Yes,Always,4,No
+Frequently,Coding,5,5,< 30 Minutes,3,No,Rarely,3,Maybe
+Frequently,Assignments,3,5,1-2 hours,4,No,Sometimes,5,Yes
+Sometimes,Others,3,3,> 2 hours,5,Sometimes,Rarely,4,No
+Never,Assignments,4,4,> 2 hours,3,No,Always,3,Maybe
+Rarely,Explanations,5,1,2 hours,4,Yes,Always,3,Maybe
+Frequently,"Creative tasks (stories, ideas, designs)",5,2,1 hours,4,Yes,Never,4,Maybe
+Never,Summarizing content,3,4,1 hours,4,Sometimes,Always,4,No
+Frequently,"Creative tasks (stories, ideas, designs)",4,5,2 hours,4,Sometimes,Never,4,No
+Daily,Coding,5,5,1 hours,3,Yes,Sometimes,3,Yes
+Never,Explanations,5,5,> 2 hours,5,Sometimes,Always,3,Yes
+Rarely,"Creative tasks (stories, ideas, designs)",5,4,1 hours,5,Yes,Never,5,Yes
+Sometimes,Coding,4,4,< 30 Minutes,5,Sometimes,Sometimes,3,No
+Rarely,Assignments,3,5,< 30 Minutes,4,Sometimes,Always,4,Maybe
+Frequently,Explanations,4,4,1-2 hours,5,No,Rarely,3,No
+Never,"Creative tasks (stories, ideas, designs)",3,5,1 hours,5,Sometimes,Always,3,Yes
+Sometimes,Assignments,2,4,1 hours,5,Yes,Never,4,Maybe
+Frequently,Coding,4,3,> 2 hours,5,No,Always,5,Yes
+Frequently,Explanations,4,4,1 hours,3,Yes,Often,3,Yes
+Frequently,"Creative tasks (stories, ideas, designs)",4,4,> 2 hours,3,No,Always,5,Yes
+Never,Summarizing content,5,4,1-2 hours,3,No,Never,3,Maybe
+Frequently,"Creative tasks (stories, ideas, designs)",4,5,1 hours,4,Yes,Rarely,4,No
+Rarely,Explanations,4,5,> 2 hours,4,Yes,Sometimes,4,Yes
+Frequently,Summarizing content,4,5,< 30 Minutes,5,Yes,Never,5,No
+Sometimes,Others,4,4,2 hours,5,Yes,Rarely,3,No
+Frequently,Explanations,3,5,2 hours,3,Yes,Often,1,No
+Never,"Creative tasks (stories, ideas, designs)",5,3,> 2 hours,4,Sometimes,Sometimes,3,Yes
+Rarely,Coding,5,4,1-2 hours,5,No,Never,4,Maybe
+Daily,Explanations,5,5,1 hours,4,Sometimes,Sometimes,3,No
+Rarely,Assignments,5,4,> 2 hours,3,Yes,Never,4,Maybe
+Frequently,Coding,4,2,< 30 Minutes,4,Sometimes,Never,4,Maybe
+Daily,Coding,4,5,2 hours,5,Sometimes,Always,4,No
+Rarely,Coding,5,5,1-2 hours,5,No,Sometimes,4,Yes
+Sometimes,Assignments,1,4,2 hours,4,Sometimes,Sometimes,4,No
+Daily,Explanations,5,5,> 2 hours,4,Yes,Never,4,Maybe
+Frequently,"Creative tasks (stories, ideas, designs)",3,5,2 hours,3,Sometimes,Always,4,Yes
+Frequently,Explanations,4,3,< 30 Minutes,4,Sometimes,Always,3,Maybe
+Frequently,Others,5,5,1 hours,4,No,Always,5,Maybe
+Never,Coding,5,5,> 2 hours,5,Yes,Rarely,3,No
+Never,Assignments,2,4,2 hours,4,Yes,Never,3,No
+Daily,"Creative tasks (stories, ideas, designs)",5,5,1 hours,4,Sometimes,Always,5,Maybe
+Frequently,Others,5,4,< 30 Minutes,5,Sometimes,Always,2,Maybe
+Frequently,Summarizing content,3,5,> 2 hours,4,Yes,Sometimes,3,Maybe
+Rarely,Coding,4,3,1-2 hours,5,Sometimes,Sometimes,4,Maybe
+Frequently,Explanations,5,5,< 30 Minutes,5,Yes,Often,4,No
+Daily,Others,5,5,2 hours,4,Sometimes,Rarely,2,Yes
+Frequently,Summarizing content,5,4,> 2 hours,5,Yes,Always,3,Yes
+Rarely,Summarizing content,5,4,1-2 hours,5,Sometimes,Always,4,Yes
+Frequently,Coding,3,4,1-2 hours,5,Yes,Always,4,Maybe
+Never,Assignments,5,4,1-2 hours,4,Yes,Often,4,No
+Daily,Assignments,5,4,2 hours,4,Sometimes,Often,4,Yes
+Never,Explanations,5,4,2 hours,5,Sometimes,Often,4,Maybe
+Never,Coding,4,5,2 hours,2,Yes,Never,2,Maybe
+Never,Explanations,3,3,2 hours,3,No,Often,3,No
+Daily,Coding,5,4,1-2 hours,4,Sometimes,Often,3,No
+Daily,"Creative tasks (stories, ideas, designs)",3,3,1 hours,5,Yes,Never,5,Yes
+Never,Coding,3,4,1 hours,5,No,Rarely,3,No
+Frequently,Explanations,3,2,< 30 Minutes,3,Sometimes,Never,4,No
+Sometimes,Others,3,5,1 hours,2,No,Never,5,Yes
+Frequently,Summarizing content,5,5,> 2 hours,5,Sometimes,Often,4,Maybe
+Frequently,"Creative tasks (stories, ideas, designs)",3,3,> 2 hours,5,No,Always,4,Yes
+Never,Coding,2,3,> 2 hours,5,Sometimes,Rarely,3,Yes
+Sometimes,Summarizing content,4,3,1-2 hours,3,Yes,Sometimes,4,No
+Daily,Coding,4,5,> 2 hours,5,Sometimes,Sometimes,1,No
+Daily,Assignments,3,5,< 30 Minutes,2,Sometimes,Never,5,Yes
+Frequently,Coding,4,5,< 30 Minutes,4,Yes,Often,3,Yes
+Rarely,Explanations,4,4,1-2 hours,2,No,Always,4,No
+Sometimes,Others,3,4,> 2 hours,4,Sometimes,Rarely,4,Maybe
+Never,Assignments,4,4,1 hours,4,Sometimes,Often,4,Yes
+Never,Summarizing content,3,5,2 hours,3,No,Always,4,No
+Sometimes,"Creative tasks (stories, ideas, designs)",5,5,< 30 Minutes,5,Sometimes,Often,4,Yes
+Sometimes,Assignments,3,5,1 hours,5,No,Never,1,Maybe
+Never,Explanations,1,5,< 30 Minutes,3,Yes,Often,4,Maybe
+Sometimes,Summarizing content,4,5,1-2 hours,4,Yes,Rarely,5,Yes
+Daily,"Creative tasks (stories, ideas, designs)",4,4,1-2 hours,4,No,Sometimes,2,No
+Daily,Others,5,5,2 hours,5,Yes,Often,4,Maybe
+Daily,Explanations,4,5,2 hours,3,No,Often,3,Yes
+Never,Assignments,5,3,1 hours,5,No,Never,5,Maybe
+Daily,Assignments,3,2,> 2 hours,5,Sometimes,Rarely,5,Maybe
+Daily,Coding,4,5,> 2 hours,4,Sometimes,Rarely,3,Yes
+Never,Coding,5,5,1 hours,2,Yes,Never,3,Maybe
+Daily,Others,4,4,1-2 hours,3,No,Never,4,Maybe
+Daily,Coding,5,5,1-2 hours,4,Sometimes,Rarely,3,Yes
+Never,Assignments,5,5,1-2 hours,5,Yes,Always,5,Maybe
+Never,"Creative tasks (stories, ideas, designs)",4,5,< 30 Minutes,5,Yes,Always,3,Yes
+Frequently,Coding,4,4,< 30 Minutes,5,No,Often,4,No
+Sometimes,Others,4,4,2 hours,3,Yes,Often,3,No
+Frequently,Explanations,5,5,2 hours,5,Sometimes,Often,4,Maybe
+Never,"Creative tasks (stories, ideas, designs)",4,5,> 2 hours,3,Sometimes,Always,4,Yes
+Sometimes,Summarizing content,3,4,< 30 Minutes,2,Sometimes,Sometimes,4,Yes
+Frequently,Explanations,5,4,2 hours,3,Sometimes,Always,4,No
+Rarely,Coding,5,4,2 hours,5,Sometimes,Sometimes,4,Yes
+Frequently,Assignments,4,4,1 hours,5,Yes,Always,4,Maybe
+Daily,Explanations,5,4,1 hours,5,No,Sometimes,3,Yes
+Never,Summarizing content,1,4,1-2 hours,4,Sometimes,Rarely,3,Maybe
+Frequently,Others,4,4,2 hours,4,No,Always,4,Maybe
+Frequently,Assignments,5,4,1-2 hours,4,Sometimes,Sometimes,3,No
+Never,Assignments,5,5,2 hours,4,No,Never,4,No
+Frequently,Others,3,5,< 30 Minutes,4,Yes,Often,3,Maybe
+Rarely,"Creative tasks (stories, ideas, designs)",1,4,> 2 hours,3,Yes,Often,4,Yes
+Daily,Others,3,5,1-2 hours,5,Yes,Sometimes,4,No
+Rarely,Explanations,4,3,< 30 Minutes,4,Yes,Sometimes,4,Yes
+Rarely,Summarizing content,4,5,2 hours,4,Yes,Often,1,Maybe
+Sometimes,Coding,3,4,1-2 hours,3,Yes,Sometimes,4,Maybe
+Frequently,"Creative tasks (stories, ideas, designs)",3,2,< 30 Minutes,4,No,Always,3,Yes
+Frequently,Summarizing content,3,4,> 2 hours,5,No,Sometimes,4,Maybe
+Sometimes,"Creative tasks (stories, ideas, designs)",3,4,1 hours,5,No,Sometimes,4,Yes
+Sometimes,Coding,5,3,1 hours,5,No,Often,5,Maybe
+Rarely,Others,4,3,> 2 hours,4,No,Never,3,Maybe
+Frequently,Others,4,3,2 hours,5,Yes,Rarely,5,Yes
+Frequently,Explanations,3,4,2 hours,5,Yes,Sometimes,3,Yes
+Never,Coding,5,5,2 hours,3,No,Rarely,3,No
+Sometimes,Others,4,5,> 2 hours,3,Yes,Always,4,Yes
+Sometimes,Assignments,4,4,2 hours,4,Sometimes,Often,4,Maybe
+Sometimes,"Creative tasks (stories, ideas, designs)",3,5,1-2 hours,5,Sometimes,Always,3,Maybe
+Sometimes,Explanations,3,5,2 hours,4,No,Always,2,Yes
+Rarely,Summarizing content,4,3,2 hours,4,Sometimes,Often,4,Maybe
+Sometimes,Summarizing content,3,5,< 30 Minutes,3,No,Often,4,Yes
+Frequently,"Creative tasks (stories, ideas, designs)",4,4,2 hours,4,No,Often,3,Yes
+Sometimes,Others,5,3,1 hours,4,Sometimes,Always,2,No
+Never,Summarizing content,4,5,> 2 hours,4,Yes,Sometimes,3,No
+Rarely,Coding,5,4,1-2 hours,5,No,Rarely,4,No
+Daily,"Creative tasks (stories, ideas, designs)",5,5,1 hours,4,No,Sometimes,1,No
+Frequently,Coding,3,4,2 hours,2,No,Often,4,No
+Sometimes,Others,4,4,> 2 hours,2,Sometimes,Rarely,3,Yes
+Daily,Assignments,5,5,> 2 hours,4,Sometimes,Often,3,No
+Daily,Coding,4,4,1 hours,5,Sometimes,Never,4,Maybe
+Never,Summarizing content,4,5,1-2 hours,5,No,Always,5,Yes
+Frequently,Assignments,4,4,1-2 hours,4,Yes,Always,4,No
+Never,Coding,4,5,2 hours,4,Yes,Sometimes,3,Maybe
+Rarely,Explanations,3,5,< 30 Minutes,4,Sometimes,Often,2,Yes
+Sometimes,Assignments,3,5,2 hours,5,Sometimes,Rarely,3,Maybe
+Daily,Coding,5,5,> 2 hours,5,No,Never,3,No
+Sometimes,Coding,4,4,< 30 Minutes,4,No,Rarely,4,Maybe
+Frequently,Others,4,4,1-2 hours,2,No,Rarely,4,No
+Sometimes,Coding,4,4,> 2 hours,3,Yes,Often,4,Yes
+Rarely,Coding,5,4,2 hours,5,Yes,Never,4,Maybe
+Rarely,"Creative tasks (stories, ideas, designs)",3,5,2 hours,5,Yes,Often,3,Yes
+Sometimes,Explanations,4,4,< 30 Minutes,5,No,Always,4,No
+Frequently,"Creative tasks (stories, ideas, designs)",2,4,< 30 Minutes,4,No,Rarely,4,Maybe
+Rarely,Others,5,5,> 2 hours,5,No,Often,4,Maybe
+Frequently,Coding,5,4,2 hours,4,No,Always,2,No
+Sometimes,"Creative tasks (stories, ideas, designs)",4,5,1-2 hours,5,Sometimes,Never,4,Yes
+Sometimes,Others,4,5,1 hours,3,No,Often,1,Yes
+Never,"Creative tasks (stories, ideas, designs)",5,3,1 hours,4,Sometimes,Often,5,Yes
+Frequently,Explanations,4,4,> 2 hours,5,Yes,Always,4,Maybe
+Sometimes,Explanations,3,4,2 hours,4,Yes,Never,4,Maybe
+Sometimes,Coding,4,4,1 hours,4,Sometimes,Never,3,Yes
+Rarely,Explanations,3,4,1 hours,3,Yes,Rarely,4,Yes
+Rarely,Explanations,3,3,2 hours,4,Sometimes,Sometimes,4,Yes
+Rarely,Assignments,5,5,< 30 Minutes,4,No,Always,4,Maybe
+Frequently,"Creative tasks (stories, ideas, designs)",4,5,< 30 Minutes,4,Yes,Always,4,Yes
+Frequently,Summarizing content,5,3,> 2 hours,5,Sometimes,Sometimes,4,Maybe
+Daily,Summarizing content,4,3,1-2 hours,2,No,Never,3,No
+Rarely,Others,3,2,1-2 hours,5,No,Often,4,No
+Daily,Others,5,3,> 2 hours,4,Yes,Always,2,No
+Rarely,"Creative tasks (stories, ideas, designs)",4,4,1 hours,4,No,Rarely,3,Yes
+Rarely,Explanations,1,5,2 hours,4,Sometimes,Never,4,Yes
+Daily,Summarizing content,5,2,1-2 hours,4,No,Always,3,No
+Rarely,Others,2,4,> 2 hours,4,Yes,Often,4,Yes
+Sometimes,"Creative tasks (stories, ideas, designs)",3,4,> 2 hours,4,Yes,Often,3,Yes
+Frequently,Others,5,5,1-2 hours,5,Yes,Rarely,4,Yes
+Frequently,Summarizing content,4,4,< 30 Minutes,4,Sometimes,Rarely,4,Yes
+Sometimes,"Creative tasks (stories, ideas, designs)",3,4,1-2 hours,5,Sometimes,Never,3,No
+Never,Summarizing content,4,4,> 2 hours,5,Sometimes,Never,3,Maybe
+Rarely,Explanations,4,3,2 hours,5,Sometimes,Often,4,No
+Sometimes,Summarizing content,1,2,> 2 hours,3,Sometimes,Sometimes,3,Yes
+Never,Summarizing content,5,3,1-2 hours,5,No,Sometimes,3,No
+Frequently,Coding,5,4,> 2 hours,4,No,Never,4,Yes
+Never,Coding,5,4,1 hours,4,Yes,Always,3,No
+Frequently,Explanations,3,4,1-2 hours,5,Yes,Rarely,3,Maybe
+Never,Assignments,5,5,1-2 hours,4,Sometimes,Sometimes,4,Maybe
+Frequently,Explanations,3,4,2 hours,5,Sometimes,Never,3,No
+Sometimes,"Creative tasks (stories, ideas, designs)",4,5,1-2 hours,5,Yes,Never,4,Maybe
+Frequently,Assignments,5,4,< 30 Minutes,4,No,Rarely,5,Yes
+Never,"Creative tasks (stories, ideas, designs)",5,5,> 2 hours,3,No,Often,3,No
+Rarely,Explanations,4,4,1 hours,3,No,Often,3,Maybe
+Rarely,Assignments,3,4,1-2 hours,5,Yes,Rarely,4,No
+Daily,"Creative tasks (stories, ideas, designs)",5,5,1 hours,4,Yes,Never,4,Maybe
+Sometimes,Assignments,4,1,1-2 hours,4,No,Rarely,3,No
+Daily,"Creative tasks (stories, ideas, designs)",5,5,> 2 hours,3,Sometimes,Sometimes,3,No
+Daily,"Creative tasks (stories, ideas, designs)",4,5,> 2 hours,5,No,Never,4,Yes
+Never,Assignments,3,4,> 2 hours,5,No,Sometimes,3,Maybe
+Sometimes,Explanations,5,5,1 hours,4,Yes,Often,3,Yes
+Daily,"Creative tasks (stories, ideas, designs)",5,5,> 2 hours,5,Yes,Often,3,Maybe
+Frequently,Summarizing content,4,4,1 hours,3,Yes,Always,3,Maybe
+Sometimes,Coding,3,3,2 hours,4,No,Often,5,No
+Frequently,Explanations,5,4,< 30 Minutes,4,No,Always,5,Yes
+Frequently,Summarizing content,5,4,2 hours,4,No,Often,3,No
+Never,Others,4,3,1 hours,5,Sometimes,Sometimes,3,Maybe
+Daily,Others,4,5,< 30 Minutes,4,Sometimes,Rarely,4,Maybe
+Never,Others,5,4,< 30 Minutes,4,No,Never,2,No
+Never,Others,3,5,1 hours,5,Sometimes,Never,3,Yes
+Frequently,Summarizing content,5,3,> 2 hours,4,No,Sometimes,3,Maybe
+Never,"Creative tasks (stories, ideas, designs)",5,4,1-2 hours,5,No,Always,5,Yes
+Never,Assignments,4,5,2 hours,4,Yes,Never,3,No
+Sometimes,Assignments,4,5,2 hours,2,Yes,Never,3,Maybe
+Never,Assignments,4,4,2 hours,5,Sometimes,Often,4,Maybe
+Sometimes,Coding,4,5,1 hours,4,Sometimes,Often,5,Yes
+Frequently,Coding,2,5,< 30 Minutes,4,No,Never,5,Yes
+Never,Summarizing content,3,5,2 hours,3,No,Sometimes,3,Maybe
+Never,Summarizing content,5,5,1 hours,5,No,Rarely,3,Yes
+Sometimes,Others,5,4,< 30 Minutes,3,No,Sometimes,5,Maybe
+Frequently,Assignments,4,5,1 hours,5,No,Never,4,Yes
+Rarely,Explanations,4,3,< 30 Minutes,5,Yes,Always,3,No
+Frequently,Assignments,4,5,1-2 hours,3,No,Sometimes,4,Maybe
+Daily,Assignments,5,5,> 2 hours,4,Yes,Never,4,Maybe
+Rarely,Assignments,4,4,< 30 Minutes,5,Yes,Never,5,No
+Never,Summarizing content,5,5,1 hours,3,No,Always,4,Yes
+Never,Others,4,3,2 hours,4,Sometimes,Rarely,3,No
+Daily,Coding,4,5,2 hours,3,Yes,Sometimes,3,Yes
+Daily,Others,2,4,2 hours,5,No,Often,4,Maybe
+Rarely,Summarizing content,4,4,< 30 Minutes,4,Yes,Never,3,Yes
+Sometimes,"Creative tasks (stories, ideas, designs)",4,2,1 hours,4,No,Rarely,4,No
+Never,Explanations,4,2,> 2 hours,5,Yes,Sometimes,5,Yes
+Sometimes,Assignments,5,5,> 2 hours,4,No,Sometimes,4,Maybe
+Never,Coding,3,3,> 2 hours,4,No,Rarely,4,No
+Frequently,Explanations,3,5,> 2 hours,4,Yes,Often,2,Maybe
+Sometimes,Summarizing content,4,4,2 hours,2,No,Rarely,3,Maybe
+Daily,Summarizing content,5,2,1-2 hours,5,No,Never,4,No
+Never,Others,4,4,1 hours,3,Sometimes,Often,5,No
+Rarely,Others,4,4,1 hours,2,Sometimes,Sometimes,3,No
+Rarely,Assignments,4,5,> 2 hours,4,Yes,Often,3,No
+Rarely,Others,4,3,> 2 hours,5,No,Always,3,Maybe
+Sometimes,Assignments,5,2,> 2 hours,4,Yes,Rarely,4,Yes
+Never,Summarizing content,5,4,> 2 hours,5,Sometimes,Always,4,Yes
+Frequently,Others,4,5,1 hours,3,Sometimes,Often,4,Maybe
+Sometimes,Coding,5,2,1 hours,4,Sometimes,Always,4,Maybe
+Sometimes,Others,5,4,1 hours,3,Sometimes,Never,5,Yes
+Daily,Explanations,4,4,2 hours,3,Sometimes,Always,3,Maybe
+Rarely,Coding,3,2,1 hours,5,No,Rarely,3,Yes
+Frequently,Explanations,5,4,1 hours,5,No,Sometimes,3,No
+Rarely,Explanations,4,2,> 2 hours,4,Sometimes,Often,4,No
+Daily,Coding,3,4,2 hours,4,Yes,Always,3,No
+Sometimes,Summarizing content,4,4,2 hours,4,Yes,Always,5,Maybe
+Frequently,Coding,5,5,< 30 Minutes,5,No,Always,3,Yes
+Never,Assignments,1,4,> 2 hours,3,Yes,Never,4,Maybe
+Frequently,Others,5,2,1-2 hours,3,Yes,Rarely,3,Maybe
+Never,Assignments,3,5,2 hours,5,Sometimes,Sometimes,4,No
+Rarely,Explanations,4,5,1-2 hours,5,Sometimes,Never,3,Yes
+Daily,Summarizing content,5,5,1 hours,4,No,Rarely,3,No
+Daily,Others,4,2,1-2 hours,5,Yes,Often,4,Yes
+Daily,"Creative tasks (stories, ideas, designs)",4,3,< 30 Minutes,4,Sometimes,Never,4,No
+Rarely,Summarizing content,4,5,2 hours,5,Yes,Always,4,Maybe
+Rarely,"Creative tasks (stories, ideas, designs)",5,5,< 30 Minutes,4,Sometimes,Never,4,Maybe
+Frequently,Summarizing content,4,4,1 hours,4,No,Often,4,No
+Frequently,Summarizing content,4,3,< 30 Minutes,4,No,Always,3,Yes
+Rarely,Others,4,5,2 hours,4,Yes,Sometimes,4,Maybe
+Rarely,Coding,3,4,1 hours,4,Yes,Never,3,Maybe
+Rarely,Coding,4,3,> 2 hours,5,Sometimes,Sometimes,3,Maybe
+Daily,"Creative tasks (stories, ideas, designs)",5,4,1-2 hours,5,No,Often,3,No
+Frequently,"Creative tasks (stories, ideas, designs)",5,4,< 30 Minutes,3,Sometimes,Rarely,4,No
+Frequently,Summarizing content,5,4,2 hours,4,Sometimes,Sometimes,4,No
+Sometimes,Others,3,4,2 hours,3,Yes,Rarely,3,No
+Sometimes,"Creative tasks (stories, ideas, designs)",5,5,1 hours,2,Sometimes,Rarely,4,Maybe
+Never,Summarizing content,5,4,> 2 hours,3,No,Never,5,Maybe
+Sometimes,Summarizing content,4,4,1 hours,4,Yes,Never,4,Maybe
+Frequently,Summarizing content,5,5,< 30 Minutes,5,No,Often,3,No
+Daily,Coding,4,3,> 2 hours,5,No,Often,3,Maybe
+Frequently,Assignments,4,3,> 2 hours,4,Yes,Sometimes,5,No
+Frequently,Explanations,5,3,1 hours,3,Sometimes,Never,5,Maybe
+Sometimes,Summarizing content,4,4,2 hours,5,Sometimes,Sometimes,3,No
+Frequently,"Creative tasks (stories, ideas, designs)",4,3,1 hours,3,Sometimes,Sometimes,3,No
+Daily,Others,4,5,> 2 hours,4,Sometimes,Always,5,Maybe
+Daily,Coding,4,4,< 30 Minutes,4,Yes,Sometimes,3,No
+Sometimes,Explanations,4,5,1 hours,4,No,Often,4,Maybe
+Daily,Assignments,4,4,1 hours,5,Yes,Rarely,5,Maybe
+Never,Others,5,5,2 hours,4,No,Rarely,3,Yes
+Daily,Assignments,4,4,1 hours,3,No,Never,1,No
+Daily,Others,5,5,> 2 hours,5,No,Rarely,3,Maybe
+Daily,Coding,4,4,> 2 hours,3,Yes,Never,1,No
+Rarely,Coding,3,3,2 hours,3,Yes,Always,4,Yes
+Sometimes,Coding,5,5,1-2 hours,4,Yes,Never,4,No
+Rarely,"Creative tasks (stories, ideas, designs)",4,5,< 30 Minutes,4,No,Rarely,4,Yes
+Sometimes,Others,4,4,1 hours,3,Yes,Sometimes,3,Yes
+Frequently,"Creative tasks (stories, ideas, designs)",4,4,2 hours,5,Sometimes,Rarely,3,No
+Rarely,Coding,4,5,< 30 Minutes,4,Sometimes,Often,4,Maybe
+Sometimes,Summarizing content,5,2,> 2 hours,5,No,Sometimes,4,Yes
+Frequently,Others,1,5,2 hours,3,No,Sometimes,5,Yes
+Daily,Summarizing content,3,5,1-2 hours,5,Yes,Often,4,Maybe
+Frequently,Summarizing content,3,5,< 30 Minutes,4,No,Always,3,No
+Sometimes,"Creative tasks (stories, ideas, designs)",4,4,1-2 hours,2,No,Rarely,5,No
+Rarely,Others,3,5,> 2 hours,5,Sometimes,Rarely,4,Yes
+Rarely,Assignments,3,5,1-2 hours,5,No,Sometimes,4,No
+Daily,Summarizing content,5,2,< 30 Minutes,3,Yes,Often,5,Yes
+Frequently,Others,4,5,1 hours,3,Sometimes,Never,4,Yes
+Frequently,Coding,5,4,< 30 Minutes,4,Yes,Always,4,Yes
+Daily,Assignments,4,5,1-2 hours,5,Yes,Often,1,Yes
+Frequently,Assignments,3,4,< 30 Minutes,2,No,Never,5,Yes
+Daily,Summarizing content,5,5,< 30 Minutes,3,Sometimes,Rarely,4,Yes
+Sometimes,Explanations,4,4,1-2 hours,3,Yes,Rarely,4,Maybe
+Rarely,Assignments,5,4,1-2 hours,2,No,Rarely,4,Yes
+Daily,"Creative tasks (stories, ideas, designs)",4,4,1-2 hours,4,No,Sometimes,3,No
+Sometimes,Summarizing content,5,5,1-2 hours,5,No,Often,5,Maybe
+Daily,Others,5,3,1 hours,4,Sometimes,Never,4,Maybe
+Sometimes,Assignments,4,5,< 30 Minutes,5,No,Rarely,4,No
+Sometimes,"Creative tasks (stories, ideas, designs)",4,4,< 30 Minutes,4,Yes,Sometimes,3,No
+Frequently,"Creative tasks (stories, ideas, designs)",5,4,1-2 hours,3,Yes,Rarely,2,Maybe
+Sometimes,Coding,4,5,1 hours,5,Sometimes,Sometimes,4,No
+Never,Summarizing content,4,2,> 2 hours,5,No,Often,3,Maybe
+Sometimes,Assignments,4,5,2 hours,5,Yes,Always,3,No
+Rarely,Assignments,4,4,2 hours,3,No,Sometimes,4,No
+Rarely,Summarizing content,3,5,2 hours,5,No,Never,3,Maybe
+Never,Explanations,5,5,1-2 hours,3,Yes,Sometimes,3,Yes
+Never,Explanations,4,4,> 2 hours,4,Sometimes,Rarely,3,Yes
+Sometimes,Summarizing content,5,4,< 30 Minutes,4,Sometimes,Rarely,5,Yes
+Sometimes,"Creative tasks (stories, ideas, designs)",4,4,< 30 Minutes,3,No,Always,4,Yes
+Frequently,Coding,4,4,1-2 hours,2,Yes,Always,4,No
+Sometimes,Explanations,4,5,< 30 Minutes,4,No,Often,1,Maybe
+Rarely,Summarizing content,3,4,> 2 hours,4,Yes,Rarely,3,No
+Never,Summarizing content,2,4,> 2 hours,4,Sometimes,Never,4,Maybe
+Frequently,Summarizing content,5,5,1-2 hours,5,Yes,Sometimes,4,No
+Frequently,Coding,4,2,< 30 Minutes,4,Sometimes,Sometimes,3,Yes
+Rarely,Explanations,4,2,1-2 hours,4,Yes,Never,3,No
+Frequently,Explanations,4,3,1-2 hours,4,Yes,Often,4,No
+Rarely,"Creative tasks (stories, ideas, designs)",4,5,1 hours,5,No,Rarely,5,Yes
+Daily,"Creative tasks (stories, ideas, designs)",4,5,< 30 Minutes,4,No,Rarely,3,Yes
+Frequently,Summarizing content,3,4,1-2 hours,3,Yes,Always,4,Maybe
+Sometimes,Others,4,5,1-2 hours,4,Sometimes,Always,3,No
+Frequently,Explanations,3,5,1-2 hours,5,Yes,Never,3,No
+Frequently,Assignments,5,5,1-2 hours,1,Sometimes,Never,3,Yes
+Frequently,Explanations,4,4,2 hours,5,Yes,Never,4,No
+Frequently,Summarizing content,4,5,< 30 Minutes,4,No,Sometimes,3,Maybe
+Sometimes,Assignments,5,5,< 30 Minutes,4,No,Always,4,No
+Never,Explanations,5,2,> 2 hours,4,No,Sometimes,3,No
+Never,"Creative tasks (stories, ideas, designs)",3,3,2 hours,4,Yes,Never,4,Yes
+Rarely,"Creative tasks (stories, ideas, designs)",5,4,2 hours,5,Sometimes,Always,3,Maybe
+Frequently,Others,4,4,> 2 hours,2,No,Rarely,4,No
+Never,Coding,3,5,1 hours,4,Sometimes,Always,3,No
+Sometimes,"Creative tasks (stories, ideas, designs)",4,4,1-2 hours,4,Yes,Rarely,5,Yes
+Frequently,Explanations,5,5,> 2 hours,5,No,Sometimes,4,Maybe
+Frequently,Summarizing content,4,5,> 2 hours,3,Yes,Never,4,Maybe
+Frequently,Summarizing content,4,2,1 hours,4,Yes,Sometimes,4,Yes
+Sometimes,Summarizing content,4,4,1 hours,5,Yes,Never,5,Yes
+Sometimes,"Creative tasks (stories, ideas, designs)",4,3,2 hours,5,No,Always,3,No
+Rarely,Assignments,5,4,1 hours,5,Sometimes,Rarely,5,Yes
+Daily,Assignments,4,2,1 hours,4,Sometimes,Rarely,3,Yes
+Rarely,Others,4,4,> 2 hours,5,Yes,Always,4,No
+Rarely,Explanations,3,5,< 30 Minutes,4,No,Sometimes,5,No
+Sometimes,"Creative tasks (stories, ideas, designs)",4,4,1-2 hours,5,No,Always,3,Yes
+Frequently,Others,3,5,2 hours,4,Yes,Never,3,Maybe
+Never,Assignments,4,4,< 30 Minutes,4,No,Always,4,No
+Sometimes,Others,4,5,> 2 hours,5,Sometimes,Rarely,3,Yes
+Sometimes,Explanations,5,2,< 30 Minutes,5,Yes,Always,4,Yes
+Rarely,Coding,4,5,1-2 hours,5,Yes,Often,3,Maybe
+Frequently,Explanations,4,4,1-2 hours,4,Yes,Always,1,Maybe
+Daily,"Creative tasks (stories, ideas, designs)",4,4,1-2 hours,2,No,Always,2,Yes
+Frequently,Assignments,5,5,> 2 hours,3,No,Often,4,No
+Sometimes,Summarizing content,4,2,1 hours,5,No,Often,5,Maybe
+Daily,Coding,5,5,1-2 hours,3,No,Sometimes,3,Yes
+Rarely,Summarizing content,4,4,> 2 hours,3,No,Never,3,No
+Frequently,Explanations,4,5,> 2 hours,4,Sometimes,Sometimes,4,Yes
+Rarely,Explanations,3,5,< 30 Minutes,5,Sometimes,Sometimes,3,Yes
+Frequently,Assignments,4,5,1 hours,3,Yes,Often,4,Yes
+Frequently,Assignments,4,4,< 30 Minutes,3,Yes,Often,3,No
+Sometimes,Assignments,2,2,1-2 hours,4,No,Often,4,No
+Rarely,"Creative tasks (stories, ideas, designs)",1,3,> 2 hours,5,No,Always,3,Yes
+Daily,Summarizing content,3,3,> 2 hours,4,No,Rarely,5,No
+Sometimes,Coding,5,3,> 2 hours,5,Yes,Always,4,Yes
+Frequently,"Creative tasks (stories, ideas, designs)",4,4,< 30 Minutes,5,Sometimes,Never,4,No
+Sometimes,Others,4,4,1 hours,4,No,Always,4,Yes
+Never,Assignments,3,4,1 hours,4,No,Sometimes,3,Maybe
+Frequently,"Creative tasks (stories, ideas, designs)",1,5,> 2 hours,5,Sometimes,Always,5,Yes
+Frequently,Explanations,4,3,2 hours,4,Sometimes,Sometimes,4,No
+Rarely,Explanations,4,3,< 30 Minutes,4,Yes,Sometimes,3,Maybe
+Sometimes,Coding,4,3,> 2 hours,4,No,Always,4,No
+Rarely,Summarizing content,5,4,> 2 hours,4,Sometimes,Always,3,No
+Never,Assignments,4,5,< 30 Minutes,5,Sometimes,Never,5,Maybe
+Sometimes,Explanations,1,5,1 hours,5,Yes,Never,4,Yes
+Frequently,Explanations,5,4,< 30 Minutes,5,Yes,Often,4,No
+Sometimes,Others,4,4,> 2 hours,5,No,Never,4,Maybe
+Daily,Summarizing content,4,4,2 hours,3,No,Rarely,5,No
+Rarely,"Creative tasks (stories, ideas, designs)",4,4,1-2 hours,5,Sometimes,Never,4,Yes
+Daily,Coding,4,4,2 hours,3,No,Rarely,3,Maybe
+Sometimes,Summarizing content,5,4,< 30 Minutes,5,No,Always,4,Yes
+Never,Summarizing content,5,5,1-2 hours,4,Yes,Always,4,Maybe
+Never,Coding,4,4,< 30 Minutes,3,No,Always,5,No
+Rarely,Coding,5,4,2 hours,4,Sometimes,Never,3,No
+Sometimes,Coding,3,4,1-2 hours,3,No,Often,2,Yes
+Rarely,Others,3,4,1 hours,4,Yes,Sometimes,4,Maybe
+Sometimes,Summarizing content,5,5,1 hours,4,No,Sometimes,5,No
+Rarely,Explanations,5,5,< 30 Minutes,4,No,Often,4,Yes
+Frequently,Explanations,5,5,1 hours,3,Sometimes,Rarely,4,Yes
+Daily,Others,5,4,< 30 Minutes,3,Yes,Rarely,4,Maybe
+Daily,Assignments,4,5,2 hours,5,Sometimes,Often,4,No
+Never,Coding,3,1,> 2 hours,4,Sometimes,Rarely,3,Yes
+Rarely,Explanations,3,5,> 2 hours,5,No,Always,4,No
+Rarely,Summarizing content,4,5,> 2 hours,4,Sometimes,Often,3,Yes
+Rarely,Summarizing content,4,4,1 hours,3,No,Never,1,No
+Frequently,Coding,3,2,1-2 hours,5,Yes,Always,4,Yes
+Sometimes,Summarizing content,4,5,> 2 hours,5,Sometimes,Rarely,4,Maybe
+Never,Others,4,4,> 2 hours,4,No,Never,4,Yes
+Daily,Assignments,5,4,1-2 hours,5,Sometimes,Always,3,Yes
+Never,Others,3,3,> 2 hours,2,Sometimes,Sometimes,3,Maybe
+Sometimes,Explanations,5,2,1-2 hours,3,No,Sometimes,4,Yes
+Daily,Summarizing content,5,5,< 30 Minutes,5,Sometimes,Often,3,No
+Rarely,Coding,4,5,> 2 hours,3,No,Sometimes,5,Yes
+Never,Explanations,4,3,1-2 hours,3,No,Never,4,No
+Never,"Creative tasks (stories, ideas, designs)",4,2,1-2 hours,5,No,Always,4,Yes
+Rarely,"Creative tasks (stories, ideas, designs)",3,4,1-2 hours,4,No,Sometimes,3,Yes
+Sometimes,Coding,4,5,1-2 hours,3,No,Never,3,Yes
+Never,Explanations,5,5,1 hours,4,Sometimes,Rarely,3,Yes
+Never,Explanations,3,5,2 hours,4,Yes,Sometimes,3,Maybe
+Never,Others,4,4,1-2 hours,5,No,Always,4,No
+Sometimes,Coding,2,4,< 30 Minutes,5,No,Never,4,Yes
+Rarely,"Creative tasks (stories, ideas, designs)",4,4,1-2 hours,5,Sometimes,Never,4,No
+Never,Explanations,4,4,> 2 hours,4,Sometimes,Often,3,Maybe
+Sometimes,Assignments,4,5,< 30 Minutes,4,No,Never,3,No
+Sometimes,Others,4,5,1-2 hours,5,Yes,Always,4,No
+Rarely,Summarizing content,4,3,1 hours,5,No,Never,5,No
+Sometimes,Assignments,4,5,< 30 Minutes,5,Sometimes,Rarely,4,No
+Rarely,Explanations,5,5,> 2 hours,4,No,Rarely,4,No
+Daily,Explanations,4,5,2 hours,4,Yes,Often,4,Yes
+Rarely,Coding,4,5,1 hours,2,Sometimes,Always,4,Maybe
+Sometimes,Explanations,4,4,> 2 hours,5,Sometimes,Rarely,3,Yes
+Rarely,Summarizing content,4,5,1 hours,3,Sometimes,Never,4,No
+Rarely,Coding,4,3,> 2 hours,3,No,Always,4,Maybe
+Frequently,Assignments,4,5,1-2 hours,3,No,Often,3,Maybe
+Frequently,Others,4,4,> 2 hours,5,Sometimes,Rarely,3,No
+Never,Explanations,5,5,2 hours,4,No,Never,4,Yes
+Rarely,Others,1,2,< 30 Minutes,5,Sometimes,Sometimes,4,Maybe
+Never,Explanations,4,5,1 hours,5,Yes,Rarely,3,Maybe
+Sometimes,Others,4,5,1-2 hours,5,No,Sometimes,3,Yes
+Daily,Assignments,4,4,> 2 hours,5,Sometimes,Always,4,Yes
+Daily,Summarizing content,5,4,1-2 hours,3,Yes,Always,3,No
+Frequently,Assignments,5,5,1-2 hours,4,No,Sometimes,3,Yes
+Rarely,Summarizing content,5,5,> 2 hours,5,No,Sometimes,3,Maybe
+Never,Coding,4,3,1-2 hours,5,Yes,Rarely,4,No
+Sometimes,Explanations,5,4,1-2 hours,5,Yes,Often,4,Maybe
+Daily,Others,3,2,1 hours,4,Sometimes,Rarely,4,Maybe
+Never,"Creative tasks (stories, ideas, designs)",3,5,< 30 Minutes,4,Yes,Sometimes,3,Yes
+Daily,Summarizing content,4,4,< 30 Minutes,4,Sometimes,Sometimes,3,Maybe
+Frequently,Others,5,5,2 hours,4,Yes,Never,4,No
+Rarely,Others,4,4,1 hours,2,Yes,Sometimes,3,Yes
+Daily,"Creative tasks (stories, ideas, designs)",4,5,< 30 Minutes,3,Sometimes,Rarely,3,Maybe
+Frequently,Summarizing content,4,2,> 2 hours,5,Yes,Sometimes,3,Yes
+Never,Summarizing content,3,5,> 2 hours,5,Yes,Rarely,3,Yes
+Rarely,"Creative tasks (stories, ideas, designs)",2,5,1 hours,4,Sometimes,Sometimes,5,Maybe
+Never,"Creative tasks (stories, ideas, designs)",4,4,1 hours,4,Sometimes,Sometimes,4,Maybe
+Frequently,"Creative tasks (stories, ideas, designs)",3,3,1 hours,4,Sometimes,Sometimes,4,No
+Never,Others,3,4,< 30 Minutes,5,Yes,Sometimes,1,Maybe
+Frequently,Coding,4,4,2 hours,4,Yes,Sometimes,4,Maybe
+Frequently,Summarizing content,4,5,1 hours,5,Sometimes,Sometimes,3,Yes
+Frequently,Coding,3,4,2 hours,5,Sometimes,Never,4,Maybe
+Sometimes,Summarizing content,4,4,> 2 hours,4,Yes,Always,3,Maybe
+Frequently,"Creative tasks (stories, ideas, designs)",4,5,2 hours,4,Yes,Never,5,Maybe
+Frequently,Explanations,5,4,1-2 hours,5,Yes,Rarely,3,No
+Frequently,Summarizing content,4,4,1-2 hours,3,Sometimes,Never,3,Yes
+Never,Coding,4,5,2 hours,3,Yes,Always,5,No
+Daily,Explanations,4,5,> 2 hours,3,No,Sometimes,4,Yes
+Never,Summarizing content,5,4,2 hours,5,Sometimes,Rarely,3,No
+Daily,Assignments,3,4,1-2 hours,4,Yes,Sometimes,4,No
+Sometimes,Others,3,4,2 hours,3,No,Sometimes,4,Yes
+Daily,Summarizing content,4,5,1-2 hours,5,Yes,Sometimes,4,Yes
+Daily,Coding,5,4,1-2 hours,5,No,Often,4,Yes
+Sometimes,Summarizing content,4,5,1-2 hours,4,No,Sometimes,5,No
+Rarely,Explanations,3,4,> 2 hours,4,Sometimes,Often,3,Maybe
+Daily,Explanations,4,2,< 30 Minutes,5,Yes,Always,5,No
+Never,"Creative tasks (stories, ideas, designs)",4,1,2 hours,5,No,Never,5,No
+Frequently,Assignments,4,5,1 hours,5,Sometimes,Never,4,No
+Never,"Creative tasks (stories, ideas, designs)",4,5,1 hours,5,No,Rarely,4,Maybe
+Rarely,Coding,4,4,< 30 Minutes,3,No,Often,3,Maybe
+Frequently,Assignments,5,5,< 30 Minutes,3,Sometimes,Never,4,Yes
+Sometimes,"Creative tasks (stories, ideas, designs)",5,2,< 30 Minutes,5,Sometimes,Often,3,Maybe
+Never,Summarizing content,4,2,< 30 Minutes,5,Yes,Always,3,Yes
+Sometimes,Summarizing content,5,4,< 30 Minutes,4,Yes,Never,4,No
+Frequently,Explanations,4,4,1-2 hours,4,Yes,Sometimes,4,Yes
+Frequently,Assignments,3,3,2 hours,5,No,Often,3,Maybe
+Daily,Others,4,3,< 30 Minutes,4,Yes,Always,2,Yes
+Daily,Explanations,4,3,< 30 Minutes,4,Yes,Sometimes,3,Yes
+Sometimes,Assignments,5,4,1-2 hours,5,No,Sometimes,1,Maybe
+Never,Assignments,4,4,> 2 hours,4,Sometimes,Never,4,Maybe
+Sometimes,Coding,4,4,2 hours,5,Sometimes,Often,4,Maybe
+Rarely,Others,5,5,2 hours,4,Yes,Always,3,Maybe
+Daily,Others,3,5,1 hours,5,No,Rarely,4,Yes
+Never,Others,1,4,> 2 hours,3,No,Always,4,Maybe
+Frequently,Others,4,2,1-2 hours,4,Sometimes,Sometimes,1,Maybe
+Rarely,Summarizing content,4,3,1-2 hours,2,Sometimes,Always,4,Yes
+Frequently,Coding,3,2,< 30 Minutes,5,Sometimes,Never,4,Maybe
+Daily,Coding,4,5,< 30 Minutes,5,Yes,Sometimes,4,Maybe
+Never,Summarizing content,4,5,2 hours,4,Yes,Rarely,4,No
+Never,Others,4,5,1-2 hours,3,Yes,Always,4,Yes
+Sometimes,Coding,4,5,> 2 hours,5,No,Often,3,Maybe
+Rarely,Summarizing content,5,5,< 30 Minutes,3,No,Often,3,No
+Frequently,Summarizing content,2,3,2 hours,3,Yes,Sometimes,4,Maybe
+Rarely,"Creative tasks (stories, ideas, designs)",4,5,1-2 hours,4,No,Often,4,Maybe
+Never,Assignments,5,5,< 30 Minutes,4,No,Often,4,Yes
+Frequently,"Creative tasks (stories, ideas, designs)",3,4,1-2 hours,4,Yes,Sometimes,4,No
+Frequently,Assignments,3,2,> 2 hours,4,Yes,Often,4,No
+Never,Summarizing content,5,5,1-2 hours,4,No,Never,4,No
+Never,"Creative tasks (stories, ideas, designs)",5,2,1 hours,5,Yes,Sometimes,4,Yes
+Frequently,Explanations,2,4,< 30 Minutes,5,No,Sometimes,3,Maybe
+Never,"Creative tasks (stories, ideas, designs)",4,5,< 30 Minutes,5,Yes,Sometimes,4,Yes
+Sometimes,Coding,4,1,< 30 Minutes,4,Yes,Always,4,No
+Never,Summarizing content,2,4,2 hours,2,No,Always,3,Yes
+Sometimes,Coding,5,5,2 hours,3,No,Always,4,Yes
+Daily,Assignments,3,5,2 hours,4,Yes,Rarely,4,No
+Never,Summarizing content,5,5,2 hours,5,Yes,Never,3,No
+Sometimes,Assignments,5,5,1-2 hours,5,Sometimes,Often,3,No
+Sometimes,"Creative tasks (stories, ideas, designs)",4,2,1 hours,4,Yes,Often,3,No
+Daily,Summarizing content,3,4,< 30 Minutes,4,Yes,Rarely,3,No
+Sometimes,Assignments,4,5,> 2 hours,4,Sometimes,Sometimes,3,Maybe
+Daily,Others,3,5,< 30 Minutes,4,No,Often,5,Yes
+Daily,Coding,4,5,> 2 hours,5,Sometimes,Often,1,Yes
+Sometimes,Others,5,5,2 hours,5,Yes,Always,4,Maybe
+Sometimes,Coding,3,5,> 2 hours,4,Sometimes,Rarely,4,Maybe
+Never,Others,4,5,1-2 hours,4,Yes,Sometimes,3,No
+Daily,"Creative tasks (stories, ideas, designs)",3,4,1 hours,5,Yes,Rarely,3,Yes
+Sometimes,Coding,1,4,2 hours,4,Yes,Sometimes,3,No
+Rarely,Others,4,5,< 30 Minutes,5,Sometimes,Rarely,3,No
+Daily,Coding,5,3,2 hours,3,Sometimes,Never,3,Yes
+Frequently,Summarizing content,5,2,> 2 hours,3,Yes,Sometimes,4,No
+Never,Explanations,5,5,> 2 hours,4,Yes,Rarely,5,No
+Rarely,Coding,4,4,1-2 hours,5,Yes,Often,5,No
+Daily,"Creative tasks (stories, ideas, designs)",4,5,2 hours,3,Yes,Never,5,No
+Daily,Assignments,5,5,1-2 hours,3,Yes,Sometimes,4,Yes
+Daily,Explanations,3,1,1-2 hours,3,Yes,Rarely,3,No
+Frequently,"Creative tasks (stories, ideas, designs)",3,5,1-2 hours,5,Sometimes,Always,3,Maybe
+Rarely,Coding,5,5,1-2 hours,3,Sometimes,Often,4,Yes
+Daily,Others,3,3,> 2 hours,5,Yes,Always,4,Yes
+Daily,Assignments,4,3,1-2 hours,4,Sometimes,Often,3,No
+Never,Summarizing content,2,4,< 30 Minutes,4,No,Often,4,Maybe
+Sometimes,Explanations,4,4,> 2 hours,5,Yes,Sometimes,3,Maybe
+Daily,Summarizing content,4,4,1 hours,5,Yes,Rarely,3,No
+Sometimes,Others,3,5,> 2 hours,4,Yes,Never,3,Maybe
+Never,Explanations,4,4,1-2 hours,3,No,Always,4,No
+Rarely,Explanations,4,4,1 hours,4,No,Never,3,Maybe
+Frequently,Explanations,4,4,2 hours,4,No,Sometimes,3,Yes
+Rarely,Others,4,3,< 30 Minutes,1,Yes,Often,4,No
+Rarely,Coding,4,5,1 hours,3,No,Sometimes,4,Yes
+Daily,"Creative tasks (stories, ideas, designs)",4,5,1 hours,3,No,Always,4,Yes
+Daily,"Creative tasks (stories, ideas, designs)",5,4,< 30 Minutes,4,Sometimes,Sometimes,3,No
+Rarely,Summarizing content,3,4,> 2 hours,5,Sometimes,Often,5,Yes
+Daily,Assignments,4,5,< 30 Minutes,4,Yes,Rarely,4,Maybe
+Never,Others,4,3,> 2 hours,5,No,Sometimes,3,Yes
+Sometimes,Explanations,3,5,< 30 Minutes,5,No,Often,4,No
+Never,"Creative tasks (stories, ideas, designs)",4,5,1-2 hours,5,Sometimes,Sometimes,4,Maybe
+Sometimes,Assignments,5,4,2 hours,3,Sometimes,Sometimes,4,Maybe
+Sometimes,Others,1,4,< 30 Minutes,5,No,Sometimes,4,Yes
+Rarely,Others,4,5,1-2 hours,4,Sometimes,Always,4,Yes
+Sometimes,Explanations,3,4,1 hours,5,No,Never,3,Maybe
+Sometimes,"Creative tasks (stories, ideas, designs)",4,5,1-2 hours,4,Yes,Sometimes,3,Yes
+Never,Assignments,3,5,1-2 hours,3,Yes,Sometimes,4,Maybe
+Never,Assignments,4,1,1 hours,3,No,Always,4,Yes
+Daily,Others,4,3,1-2 hours,4,No,Always,4,Yes
+Sometimes,"Creative tasks (stories, ideas, designs)",4,2,> 2 hours,4,No,Never,1,No
+Never,Summarizing content,3,2,> 2 hours,4,No,Rarely,4,No
+Never,Summarizing content,3,4,1 hours,5,Yes,Never,5,Yes
+Daily,Others,5,4,1-2 hours,5,Yes,Always,4,No
+Frequently,Coding,5,4,1 hours,4,Yes,Sometimes,4,Yes
+Sometimes,"Creative tasks (stories, ideas, designs)",1,5,2 hours,4,Sometimes,Rarely,3,Maybe
+Never,Others,3,4,1-2 hours,4,Yes,Often,5,Yes
+Sometimes,Explanations,5,5,1 hours,4,No,Always,4,Maybe
+Never,Others,4,4,< 30 Minutes,4,Yes,Always,4,Maybe
+Never,Others,5,4,< 30 Minutes,4,Sometimes,Never,4,No
+Frequently,Summarizing content,2,4,2 hours,5,Yes,Never,4,Maybe
+Daily,Explanations,4,5,2 hours,4,Sometimes,Sometimes,3,Yes
+Rarely,Others,5,3,> 2 hours,4,Sometimes,Always,3,Maybe
+Rarely,Others,4,5,2 hours,3,Yes,Never,4,No
+Daily,"Creative tasks (stories, ideas, designs)",2,5,2 hours,3,Sometimes,Always,4,No
+Rarely,Assignments,5,4,2 hours,5,No,Never,4,No
+Sometimes,Summarizing content,4,4,< 30 Minutes,3,Yes,Rarely,4,Yes
+Never,Coding,3,4,1 hours,4,No,Often,4,Yes
+Never,Assignments,5,4,< 30 Minutes,5,Yes,Always,5,Maybe
+Frequently,Assignments,4,4,1-2 hours,2,No,Always,4,Maybe
+Never,Coding,5,4,1 hours,2,Sometimes,Always,4,Maybe
+Rarely,Assignments,5,5,2 hours,4,No,Always,3,Yes
+Frequently,Explanations,4,5,2 hours,5,No,Often,3,Maybe
+Sometimes,Others,5,4,> 2 hours,5,Sometimes,Rarely,4,Yes
+Frequently,Assignments,5,4,< 30 Minutes,5,No,Often,4,No
+Daily,Assignments,4,4,> 2 hours,4,Sometimes,Rarely,3,No
+Sometimes,Others,5,4,< 30 Minutes,3,Yes,Never,4,Maybe
+Frequently,Others,5,5,1-2 hours,3,Sometimes,Always,4,No
+Frequently,Explanations,4,3,> 2 hours,2,No,Always,3,Yes
+Frequently,"Creative tasks (stories, ideas, designs)",4,4,2 hours,5,No,Often,1,Yes
+Daily,Coding,3,3,2 hours,5,Yes,Always,4,No
+Rarely,Explanations,2,3,< 30 Minutes,4,No,Sometimes,4,No
+Rarely,Others,4,5,< 30 Minutes,3,Sometimes,Always,4,Yes
+Frequently,Explanations,5,5,< 30 Minutes,3,No,Rarely,4,Maybe
+Never,Assignments,1,5,2 hours,5,Yes,Often,3,Maybe
+Daily,Summarizing content,5,5,< 30 Minutes,4,Sometimes,Rarely,4,Yes
+Frequently,Explanations,4,5,< 30 Minutes,4,Yes,Always,3,Yes
+Frequently,Assignments,3,4,1-2 hours,5,Yes,Always,4,Yes
+Frequently,Explanations,4,3,1-2 hours,2,No,Always,3,Yes
+Rarely,Summarizing content,4,4,< 30 Minutes,5,No,Rarely,5,Yes
+Never,"Creative tasks (stories, ideas, designs)",4,3,1-2 hours,4,Yes,Never,4,Maybe
+Rarely,Coding,5,5,1 hours,3,Sometimes,Never,4,No
+Never,Assignments,3,4,> 2 hours,5,Yes,Rarely,5,Yes
+Rarely,Assignments,4,2,> 2 hours,3,No,Sometimes,4,Maybe
+Never,Explanations,5,5,2 hours,5,Sometimes,Never,3,No
+Sometimes,Explanations,5,4,2 hours,3,Yes,Often,3,No
+Frequently,"Creative tasks (stories, ideas, designs)",4,5,1 hours,3,Sometimes,Often,4,Yes
+Daily,Assignments,5,4,2 hours,5,No,Never,4,Yes
+Daily,Assignments,4,5,> 2 hours,4,Yes,Always,4,No
+Daily,Summarizing content,4,3,< 30 Minutes,5,Sometimes,Always,3,Maybe
+Daily,Assignments,5,2,> 2 hours,4,Yes,Rarely,4,Yes
+Rarely,Coding,5,4,> 2 hours,4,No,Often,4,No
+Sometimes,Summarizing content,4,3,> 2 hours,5,No,Sometimes,5,No
+Sometimes,Explanations,1,4,> 2 hours,5,Sometimes,Rarely,3,Maybe
+Rarely,Summarizing content,3,4,2 hours,4,No,Often,3,Maybe
+Daily,"Creative tasks (stories, ideas, designs)",4,4,> 2 hours,5,Sometimes,Always,3,Yes
+Never,Explanations,4,5,< 30 Minutes,4,Sometimes,Never,3,No
+Daily,Summarizing content,5,4,2 hours,4,Sometimes,Always,5,No
+Frequently,Assignments,5,5,> 2 hours,5,Yes,Sometimes,3,Yes
+Sometimes,Explanations,4,5,1-2 hours,5,Yes,Rarely,2,Maybe
+Never,Summarizing content,5,2,1 hours,4,No,Often,3,No
+Daily,Coding,2,3,1 hours,4,No,Always,4,No
+Never,Explanations,5,4,> 2 hours,5,Sometimes,Always,1,Yes
+Daily,Assignments,5,3,> 2 hours,5,Sometimes,Sometimes,3,Maybe
+Never,Assignments,3,3,< 30 Minutes,5,Yes,Sometimes,4,Maybe
+Never,Others,4,3,< 30 Minutes,2,Yes,Always,3,Maybe
+Rarely,"Creative tasks (stories, ideas, designs)",4,5,1 hours,4,Yes,Always,4,Maybe
+Frequently,Summarizing content,3,4,> 2 hours,4,Yes,Never,3,No
+Never,"Creative tasks (stories, ideas, designs)",5,5,1-2 hours,4,No,Rarely,4,Maybe
+Frequently,Assignments,4,3,2 hours,5,Sometimes,Often,4,No
+Rarely,Explanations,4,3,< 30 Minutes,4,No,Sometimes,4,Yes
+Rarely,Explanations,4,5,> 2 hours,5,No,Rarely,4,No
+Sometimes,"Creative tasks (stories, ideas, designs)",1,3,2 hours,5,Sometimes,Sometimes,3,Yes
+Frequently,Explanations,3,4,1 hours,4,Yes,Rarely,5,Maybe
+Frequently,Assignments,5,3,2 hours,4,No,Sometimes,5,Yes
+Sometimes,Assignments,5,3,2 hours,4,Yes,Rarely,4,Maybe
+Never,Assignments,3,5,2 hours,2,Sometimes,Never,4,No
+Rarely,Explanations,5,3,> 2 hours,4,Sometimes,Often,3,Yes
+Rarely,Assignments,3,3,1-2 hours,4,No,Sometimes,3,Maybe
+Frequently,Coding,5,2,> 2 hours,4,Yes,Often,4,No
+Rarely,Others,5,3,2 hours,3,No,Rarely,3,Yes
+Frequently,Others,1,5,1-2 hours,5,No,Sometimes,5,Yes
+Daily,Coding,4,4,2 hours,4,No,Sometimes,4,Yes
+Daily,Assignments,5,3,1-2 hours,4,Yes,Sometimes,3,No
+Daily,Coding,5,3,< 30 Minutes,4,No,Often,3,No
+Never,Others,3,4,1 hours,2,Yes,Sometimes,3,No
+Daily,Explanations,4,4,< 30 Minutes,5,No,Rarely,4,No
+Never,Coding,4,3,1-2 hours,5,No,Rarely,4,No
+Never,Assignments,3,5,> 2 hours,5,Sometimes,Often,5,Maybe
+Frequently,Summarizing content,4,3,< 30 Minutes,3,Sometimes,Always,4,No
+Never,"Creative tasks (stories, ideas, designs)",4,5,< 30 Minutes,5,Sometimes,Sometimes,3,Yes
+Daily,Assignments,4,4,1 hours,3,No,Often,4,Maybe
+Daily,Assignments,5,4,< 30 Minutes,4,No,Sometimes,4,Maybe
+Never,Assignments,4,5,2 hours,4,No,Never,3,No
+Daily,Summarizing content,3,4,2 hours,4,Sometimes,Never,4,Maybe
+Frequently,Assignments,4,3,< 30 Minutes,4,Sometimes,Rarely,4,No
+Frequently,Coding,3,2,1 hours,3,No,Never,4,Yes
+Frequently,Explanations,3,4,1-2 hours,5,No,Always,3,No
+Never,Others,4,4,< 30 Minutes,4,Yes,Never,3,Maybe
+Never,"Creative tasks (stories, ideas, designs)",5,5,1 hours,4,Sometimes,Often,4,Yes
+Never,"Creative tasks (stories, ideas, designs)",3,4,2 hours,3,No,Often,4,Maybe
+Sometimes,"Creative tasks (stories, ideas, designs)",4,4,1-2 hours,3,Sometimes,Often,4,Yes
+Sometimes,Coding,4,3,< 30 Minutes,5,No,Always,4,Maybe
+Sometimes,Explanations,4,2,2 hours,5,Sometimes,Never,3,Yes
+Rarely,Others,5,4,< 30 Minutes,5,No,Never,5,No
+Sometimes,Summarizing content,5,4,< 30 Minutes,4,Sometimes,Sometimes,4,No
+Sometimes,Summarizing content,3,4,> 2 hours,5,Yes,Always,4,Maybe
+Daily,"Creative tasks (stories, ideas, designs)",4,4,> 2 hours,4,Sometimes,Never,3,Maybe
+Rarely,Explanations,4,5,1-2 hours,3,No,Sometimes,5,No
+Rarely,Summarizing content,5,4,2 hours,4,Yes,Sometimes,5,No
+Rarely,Coding,4,4,< 30 Minutes,4,Sometimes,Always,3,Maybe
+Rarely,Summarizing content,4,4,1-2 hours,5,Sometimes,Rarely,3,No
+Daily,Explanations,4,5,1-2 hours,4,Yes,Never,3,No
+Rarely,Assignments,5,5,< 30 Minutes,5,Sometimes,Sometimes,3,Yes
+Never,Assignments,4,5,> 2 hours,5,No,Sometimes,3,Yes
+Sometimes,Assignments,5,2,2 hours,3,Sometimes,Sometimes,3,Yes
+Sometimes,Summarizing content,4,4,1-2 hours,4,Sometimes,Always,4,Yes
+Rarely,Others,4,5,< 30 Minutes,5,Yes,Sometimes,4,Yes
+Frequently,Assignments,4,5,> 2 hours,5,Yes,Sometimes,5,Yes
+Never,Assignments,5,5,< 30 Minutes,4,Yes,Never,3,Yes
+Sometimes,Coding,4,4,1-2 hours,4,Sometimes,Rarely,5,No
+Daily,Coding,4,5,2 hours,4,Yes,Never,4,No
+Daily,Coding,3,2,< 30 Minutes,4,Yes,Sometimes,1,No
+Never,"Creative tasks (stories, ideas, designs)",4,4,1 hours,4,Yes,Rarely,3,No
+Sometimes,Summarizing content,4,5,> 2 hours,3,Sometimes,Always,4,Maybe
+Sometimes,Explanations,5,5,1-2 hours,5,No,Rarely,5,Yes
+Daily,"Creative tasks (stories, ideas, designs)",4,5,> 2 hours,4,Sometimes,Rarely,4,No
+Frequently,Coding,4,4,2 hours,5,Sometimes,Rarely,5,Yes
+Frequently,Coding,4,4,> 2 hours,5,No,Always,4,Maybe
+Frequently,Coding,3,5,> 2 hours,3,No,Always,4,No
+Frequently,Others,4,4,1 hours,4,Yes,Never,3,No
+Rarely,Summarizing content,4,4,1-2 hours,5,No,Sometimes,3,No
+Frequently,Assignments,4,3,2 hours,2,No,Rarely,4,Yes
+Never,Summarizing content,4,4,< 30 Minutes,4,No,Always,3,Maybe
+Daily,"Creative tasks (stories, ideas, designs)",4,4,2 hours,4,No,Always,4,Maybe
+Sometimes,Assignments,3,5,1-2 hours,4,Sometimes,Rarely,2,Yes
+Frequently,Coding,4,5,2 hours,3,No,Sometimes,4,Maybe
+Frequently,Summarizing content,5,5,1-2 hours,5,No,Often,3,No
+Never,Assignments,4,4,1 hours,3,No,Always,3,No
+Rarely,Summarizing content,4,4,< 30 Minutes,3,Sometimes,Often,3,No
+Sometimes,Coding,4,4,1 hours,4,Sometimes,Sometimes,5,Yes
+Daily,Coding,5,5,1-2 hours,5,Yes,Sometimes,3,Yes
+Rarely,Summarizing content,5,4,2 hours,4,No,Rarely,3,Maybe
+Daily,Assignments,4,4,2 hours,5,No,Often,4,Maybe
+Sometimes,Summarizing content,4,5,> 2 hours,4,Yes,Never,4,No
+Rarely,Assignments,5,5,1-2 hours,5,No,Never,2,No
+Rarely,Assignments,5,4,2 hours,3,No,Rarely,3,Maybe
+Sometimes,Coding,4,4,1 hours,4,No,Always,5,Yes
+Daily,Assignments,4,2,> 2 hours,3,No,Sometimes,3,Yes
+Rarely,Assignments,4,4,< 30 Minutes,5,Yes,Rarely,3,No
+Sometimes,Explanations,3,5,1-2 hours,3,No,Always,5,No
+Never,Coding,3,4,2 hours,4,Yes,Often,4,Maybe
+Daily,Assignments,4,5,> 2 hours,5,No,Always,3,No
+Frequently,"Creative tasks (stories, ideas, designs)",5,5,1 hours,4,Yes,Always,2,Maybe
+Rarely,Summarizing content,5,2,1 hours,3,Yes,Always,3,Maybe
+Daily,Coding,5,5,< 30 Minutes,3,No,Never,3,No
+Sometimes,Summarizing content,5,4,1-2 hours,4,No,Sometimes,4,No
+Never,Summarizing content,4,2,2 hours,3,No,Rarely,4,Yes
+Never,Summarizing content,4,4,< 30 Minutes,4,Yes,Never,2,Maybe
+Daily,Summarizing content,5,3,1-2 hours,3,Yes,Often,3,Maybe
+Rarely,Others,4,4,< 30 Minutes,3,No,Rarely,4,No
+Frequently,Assignments,4,5,1 hours,4,Sometimes,Often,5,No
+Frequently,Explanations,4,4,> 2 hours,3,Yes,Rarely,3,Yes
+Frequently,Assignments,4,5,< 30 Minutes,2,Yes,Sometimes,4,Maybe
+Sometimes,Assignments,1,4,2 hours,3,No,Often,4,Maybe
+Frequently,Explanations,5,4,1 hours,4,Yes,Never,1,Maybe
+Daily,Summarizing content,4,5,< 30 Minutes,3,Sometimes,Always,4,No
+Daily,Explanations,3,3,2 hours,5,Sometimes,Always,4,Yes
+Frequently,Explanations,3,3,< 30 Minutes,3,Yes,Sometimes,5,No
+Frequently,Explanations,5,4,< 30 Minutes,3,No,Never,5,Maybe
+Rarely,Summarizing content,3,4,< 30 Minutes,4,No,Often,4,Yes
+Frequently,Others,3,5,1-2 hours,5,No,Rarely,3,Maybe
+Daily,Others,4,4,2 hours,4,Sometimes,Sometimes,4,No
+Never,Others,3,5,1-2 hours,4,No,Often,3,No
+Never,Explanations,5,3,> 2 hours,3,Sometimes,Always,3,No
+Sometimes,Others,3,3,1 hours,4,Sometimes,Never,3,No
+Sometimes,Others,4,4,1-2 hours,3,Yes,Always,3,Yes
+Daily,Coding,4,4,1 hours,5,No,Always,4,No
+Frequently,Explanations,4,5,1-2 hours,4,Sometimes,Sometimes,3,Yes
+Frequently,"Creative tasks (stories, ideas, designs)",4,5,2 hours,5,No,Never,4,Maybe
+Sometimes,"Creative tasks (stories, ideas, designs)",5,5,> 2 hours,4,Yes,Rarely,3,Yes
+Frequently,Summarizing content,3,3,1 hours,4,Yes,Sometimes,4,Maybe
+Frequently,Assignments,4,2,< 30 Minutes,3,Yes,Sometimes,4,No
+Rarely,Assignments,5,3,1 hours,3,Sometimes,Always,3,Maybe
+Frequently,Explanations,5,2,1-2 hours,4,Sometimes,Often,4,No
+Never,Coding,4,5,1 hours,4,No,Never,3,No
+Rarely,Others,4,4,1-2 hours,5,Yes,Rarely,3,No
+Frequently,Coding,4,5,< 30 Minutes,4,Yes,Sometimes,5,No
+Frequently,Others,4,4,1-2 hours,3,Sometimes,Always,3,No
+Never,Others,4,4,1 hours,5,Sometimes,Rarely,4,Maybe
+Frequently,"Creative tasks (stories, ideas, designs)",5,4,2 hours,4,Sometimes,Never,4,Yes
+Sometimes,Explanations,4,2,1-2 hours,4,Yes,Always,3,Yes
+Rarely,Explanations,4,5,1 hours,3,Sometimes,Sometimes,3,No
+Daily,Explanations,2,5,2 hours,5,Yes,Rarely,5,Maybe
+Never,Summarizing content,5,4,< 30 Minutes,4,Sometimes,Always,5,No
+Frequently,Coding,4,5,2 hours,4,Yes,Never,4,Yes
+Never,Others,3,3,2 hours,5,Yes,Rarely,5,Maybe
+Daily,Coding,3,3,2 hours,3,No,Rarely,4,No
+Daily,Summarizing content,4,5,> 2 hours,5,Sometimes,Rarely,4,No
+Never,"Creative tasks (stories, ideas, designs)",1,5,1 hours,4,Sometimes,Often,3,Yes
+Daily,Assignments,5,5,< 30 Minutes,4,No,Sometimes,3,No
+Never,Others,3,5,< 30 Minutes,4,Sometimes,Often,3,Yes
+Frequently,Explanations,4,5,1-2 hours,4,Sometimes,Never,4,Maybe
+Frequently,Assignments,4,5,1 hours,5,Yes,Rarely,4,Yes
+Never,"Creative tasks (stories, ideas, designs)",3,3,1 hours,3,No,Sometimes,4,Yes
+Daily,Coding,5,4,1-2 hours,4,No,Rarely,3,No
+Never,"Creative tasks (stories, ideas, designs)",4,5,1 hours,3,No,Never,3,Yes
+Daily,Summarizing content,3,1,1 hours,3,Sometimes,Sometimes,4,Maybe
+Sometimes,Summarizing content,4,5,1 hours,4,Yes,Always,3,No
+Sometimes,Summarizing content,5,2,2 hours,3,Sometimes,Never,3,Yes
+Sometimes,Coding,4,3,> 2 hours,4,Sometimes,Rarely,3,Maybe
+Daily,Others,3,4,> 2 hours,4,Yes,Sometimes,4,No
+Daily,Summarizing content,3,3,< 30 Minutes,4,Sometimes,Rarely,3,Yes
+Frequently,Assignments,5,4,1-2 hours,4,Yes,Sometimes,4,No
+Never,Assignments,2,5,1-2 hours,5,Sometimes,Often,4,Yes
+Rarely,"Creative tasks (stories, ideas, designs)",3,4,1-2 hours,4,No,Never,5,No
+Never,"Creative tasks (stories, ideas, designs)",3,5,2 hours,4,Yes,Always,4,No
+Never,Explanations,5,4,1-2 hours,3,No,Rarely,4,Yes
+Frequently,Others,3,5,> 2 hours,4,Sometimes,Sometimes,4,No
+Daily,Coding,4,4,< 30 Minutes,5,Yes,Never,2,Maybe
+Frequently,Others,3,4,> 2 hours,4,Sometimes,Rarely,5,No
+Never,Summarizing content,5,2,1-2 hours,3,Sometimes,Never,5,Yes
+Never,Summarizing content,5,5,1-2 hours,4,No,Sometimes,1,No
+Daily,Coding,4,3,< 30 Minutes,4,No,Sometimes,4,Yes
+Sometimes,Coding,4,4,1 hours,5,Yes,Always,4,Yes
+Sometimes,Coding,4,5,1-2 hours,5,Yes,Often,4,No
+Rarely,Others,4,4,2 hours,5,No,Often,4,Maybe
+Never,Coding,4,4,< 30 Minutes,3,Sometimes,Often,4,Yes
+Sometimes,Explanations,5,4,> 2 hours,4,Sometimes,Often,3,No
+Frequently,Explanations,5,4,> 2 hours,4,Yes,Always,5,Maybe
+Rarely,Coding,5,3,1-2 hours,4,No,Always,4,No
+Daily,"Creative tasks (stories, ideas, designs)",4,5,< 30 Minutes,5,Sometimes,Often,4,Yes
+Rarely,Explanations,4,5,1-2 hours,4,Sometimes,Never,3,Maybe
+Rarely,Assignments,3,5,2 hours,3,Yes,Sometimes,3,No
+Sometimes,Coding,4,5,1 hours,2,Sometimes,Sometimes,4,Maybe
+Daily,Explanations,4,5,> 2 hours,3,Sometimes,Often,4,Maybe
+Daily,"Creative tasks (stories, ideas, designs)",3,3,2 hours,5,Yes,Never,4,No
+Rarely,Summarizing content,5,4,1-2 hours,4,Sometimes,Rarely,5,Yes
+Never,"Creative tasks (stories, ideas, designs)",3,4,1-2 hours,4,Yes,Never,4,No
+Daily,"Creative tasks (stories, ideas, designs)",5,5,> 2 hours,5,Yes,Never,4,No
+Rarely,Explanations,4,5,2 hours,5,No,Never,4,Yes
+Rarely,Assignments,4,4,2 hours,4,No,Rarely,5,Yes
+Daily,Explanations,4,4,2 hours,5,No,Often,4,Maybe
+Never,Explanations,3,4,> 2 hours,4,Sometimes,Sometimes,4,Yes
+Rarely,"Creative tasks (stories, ideas, designs)",5,4,> 2 hours,4,No,Often,4,Yes
+Rarely,Coding,4,4,1-2 hours,3,Yes,Always,4,No
+Daily,Others,4,3,> 2 hours,5,No,Rarely,1,Yes
+Never,Coding,4,2,1 hours,5,Yes,Rarely,3,Maybe
+Sometimes,Summarizing content,3,5,1 hours,3,Yes,Often,3,Yes
+Rarely,Explanations,4,4,> 2 hours,5,Sometimes,Rarely,4,Yes
+Frequently,Assignments,4,3,1 hours,3,Sometimes,Often,3,No
+Daily,Summarizing content,4,4,1 hours,5,Sometimes,Sometimes,5,No
+Rarely,"Creative tasks (stories, ideas, designs)",4,4,2 hours,5,No,Never,4,No
+Rarely,Others,5,5,1-2 hours,2,Sometimes,Always,3,Maybe
+Sometimes,Assignments,4,4,1-2 hours,5,No,Sometimes,4,Yes
+Sometimes,Assignments,4,4,< 30 Minutes,5,Yes,Never,4,No
+Daily,Summarizing content,4,4,1-2 hours,4,Sometimes,Rarely,5,No
+Frequently,Assignments,4,5,> 2 hours,5,No,Often,4,Maybe
+Frequently,"Creative tasks (stories, ideas, designs)",5,4,< 30 Minutes,3,Yes,Never,4,Maybe
+Sometimes,Coding,3,5,> 2 hours,5,Yes,Rarely,2,Yes
+Rarely,Summarizing content,3,4,1-2 hours,5,Sometimes,Always,3,No
+Never,Assignments,5,2,1-2 hours,5,No,Never,4,Maybe
+Frequently,Coding,3,2,< 30 Minutes,4,Yes,Often,3,Yes
+Sometimes,Assignments,4,4,> 2 hours,5,No,Always,5,Yes
+Never,Others,5,4,> 2 hours,4,No,Often,3,No
+Frequently,Others,4,4,> 2 hours,5,No,Often,3,Yes
+Never,Coding,4,4,> 2 hours,2,Yes,Often,4,No
+Frequently,Explanations,5,4,2 hours,4,Yes,Never,4,Maybe
+Daily,Summarizing content,4,3,> 2 hours,4,Sometimes,Often,5,Yes
+Frequently,"Creative tasks (stories, ideas, designs)",4,5,1 hours,5,No,Rarely,4,Yes
+Frequently,Explanations,4,3,< 30 Minutes,4,Sometimes,Rarely,3,Maybe
+Never,Others,4,5,1 hours,1,Sometimes,Never,3,No
+Frequently,Summarizing content,4,5,2 hours,5,Sometimes,Rarely,4,Maybe
+Never,Summarizing content,3,5,> 2 hours,5,Sometimes,Always,3,No
+Sometimes,"Creative tasks (stories, ideas, designs)",3,4,< 30 Minutes,3,Sometimes,Always,3,Yes
+Frequently,Summarizing content,4,4,1 hours,5,Yes,Always,4,No
+Frequently,Coding,5,5,2 hours,4,Yes,Never,4,Maybe
+Frequently,Others,4,5,> 2 hours,4,Sometimes,Often,4,Maybe
+Sometimes,"Creative tasks (stories, ideas, designs)",4,5,2 hours,4,No,Never,4,No
+Frequently,"Creative tasks (stories, ideas, designs)",5,5,> 2 hours,4,Sometimes,Rarely,3,Maybe
+Rarely,Assignments,5,4,> 2 hours,3,Sometimes,Often,3,No
+Never,Assignments,5,5,1-2 hours,5,Sometimes,Always,4,Yes
+Daily,Explanations,5,3,< 30 Minutes,4,No,Rarely,5,No
+Daily,"Creative tasks (stories, ideas, designs)",5,3,> 2 hours,4,No,Sometimes,3,No
+Rarely,Others,5,4,1-2 hours,5,No,Never,5,Yes
+Rarely,Coding,3,4,> 2 hours,5,No,Always,5,No
+Sometimes,Explanations,5,5,< 30 Minutes,4,No,Often,4,No
+Rarely,Coding,2,4,< 30 Minutes,5,Sometimes,Always,3,No
+Sometimes,"Creative tasks (stories, ideas, designs)",4,4,1 hours,5,Sometimes,Never,4,No
+Sometimes,Coding,1,3,> 2 hours,5,Yes,Rarely,4,No
+Never,Others,4,4,1 hours,5,No,Never,1,No
+Daily,Others,4,3,2 hours,4,No,Sometimes,4,No
+Sometimes,Coding,3,2,2 hours,4,No,Sometimes,5,No
+Frequently,Assignments,3,3,> 2 hours,5,Sometimes,Always,3,No
+Sometimes,Coding,3,4,2 hours,3,Yes,Often,4,No
+Sometimes,Assignments,4,4,< 30 Minutes,3,Yes,Never,4,Maybe
+Never,Summarizing content,4,4,2 hours,4,No,Often,5,No
+Rarely,"Creative tasks (stories, ideas, designs)",4,4,1 hours,3,No,Sometimes,4,No
+Daily,Assignments,4,4,2 hours,5,Sometimes,Never,4,Maybe
+Sometimes,Coding,4,4,2 hours,3,Sometimes,Never,3,No
+Sometimes,Coding,3,2,> 2 hours,5,No,Always,4,Yes
+Never,Others,4,5,1-2 hours,4,Yes,Always,5,Yes
+Frequently,Others,4,4,> 2 hours,4,Yes,Rarely,4,Yes
+Daily,Others,5,4,2 hours,3,Yes,Always,4,Maybe
+Sometimes,Assignments,1,4,> 2 hours,4,Sometimes,Often,3,Yes
+Never,Summarizing content,4,4,1-2 hours,3,Sometimes,Rarely,5,No
+Sometimes,Summarizing content,1,4,> 2 hours,4,Sometimes,Rarely,4,Maybe
+Daily,Summarizing content,4,4,1-2 hours,4,No,Always,4,Maybe
+Daily,Assignments,4,3,< 30 Minutes,5,Sometimes,Sometimes,3,Yes
+Sometimes,Coding,4,4,2 hours,5,Sometimes,Rarely,4,Yes
+Daily,Others,3,5,< 30 Minutes,4,Yes,Never,4,No
+Rarely,Others,5,4,< 30 Minutes,4,No,Sometimes,4,Yes
+Sometimes,Coding,4,2,1 hours,3,Sometimes,Often,4,Yes
+Daily,Others,3,4,> 2 hours,5,Yes,Never,3,No
+Sometimes,Summarizing content,4,5,1 hours,5,Yes,Always,3,Yes
+Sometimes,Explanations,4,4,> 2 hours,5,Yes,Always,3,Yes
+Never,"Creative tasks (stories, ideas, designs)",5,5,> 2 hours,4,Yes,Rarely,3,Maybe
+Sometimes,Assignments,4,3,1 hours,4,Yes,Rarely,5,Yes
+Rarely,Assignments,4,4,1-2 hours,4,Yes,Rarely,4,Maybe
+Frequently,"Creative tasks (stories, ideas, designs)",5,4,1 hours,5,Yes,Sometimes,4,Yes
+Frequently,Coding,5,3,< 30 Minutes,4,Sometimes,Often,5,No
+Rarely,Assignments,4,5,1 hours,4,Yes,Never,3,No
+Never,Others,4,5,> 2 hours,4,No,Sometimes,3,Yes
+Rarely,Explanations,5,5,2 hours,3,Yes,Always,4,No
+Sometimes,Summarizing content,4,1,< 30 Minutes,4,No,Often,3,Yes
+Sometimes,Summarizing content,4,4,< 30 Minutes,3,Sometimes,Rarely,4,Maybe
+Daily,Coding,4,4,< 30 Minutes,5,Sometimes,Rarely,4,Maybe
+Sometimes,Explanations,5,4,> 2 hours,5,Yes,Sometimes,2,Yes
+Sometimes,Assignments,4,4,1 hours,5,Sometimes,Always,4,Yes
+Never,Assignments,1,4,1 hours,4,Sometimes,Always,3,Yes
+Frequently,Assignments,4,4,> 2 hours,5,Sometimes,Sometimes,5,Yes
+Never,Others,4,4,< 30 Minutes,3,No,Often,2,No
+Rarely,Others,4,5,1 hours,5,Sometimes,Sometimes,4,Maybe
+Frequently,"Creative tasks (stories, ideas, designs)",4,4,1 hours,4,Yes,Always,3,No
+Daily,Assignments,4,2,> 2 hours,4,No,Always,4,No
+Rarely,"Creative tasks (stories, ideas, designs)",5,5,2 hours,5,Yes,Sometimes,5,No
+Never,Explanations,4,4,1 hours,4,Sometimes,Rarely,3,No
+Never,Summarizing content,5,4,2 hours,3,Sometimes,Sometimes,4,Yes
+Rarely,"Creative tasks (stories, ideas, designs)",1,5,1 hours,4,Yes,Often,3,Yes
+Sometimes,Assignments,3,4,1-2 hours,4,No,Rarely,4,Yes
+Daily,"Creative tasks (stories, ideas, designs)",3,5,2 hours,4,Yes,Never,5,Maybe
+Sometimes,Coding,5,3,< 30 Minutes,5,No,Often,5,No
+Frequently,Assignments,4,2,> 2 hours,4,Sometimes,Sometimes,3,No
+Rarely,Explanations,2,5,1 hours,4,Yes,Sometimes,3,Maybe
+Frequently,Others,4,5,< 30 Minutes,2,No,Sometimes,5,No
+Rarely,Explanations,5,4,2 hours,4,Sometimes,Never,1,Yes
+Frequently,"Creative tasks (stories, ideas, designs)",4,4,1 hours,3,Sometimes,Sometimes,4,Yes
+Sometimes,Summarizing content,5,5,1-2 hours,4,Sometimes,Always,3,No
+Never,Coding,5,3,> 2 hours,2,No,Never,3,No
+Never,Assignments,4,5,1-2 hours,4,Sometimes,Sometimes,5,Maybe
+Frequently,"Creative tasks (stories, ideas, designs)",4,4,< 30 Minutes,4,Sometimes,Rarely,4,No
+Frequently,Coding,4,3,< 30 Minutes,4,Yes,Often,1,Yes
+Frequently,Summarizing content,5,5,2 hours,3,Sometimes,Sometimes,5,No
+Frequently,Coding,4,5,1-2 hours,4,Yes,Rarely,5,Maybe
+Frequently,Assignments,4,5,< 30 Minutes,2,No,Always,4,Yes
+Rarely,Coding,3,2,1 hours,4,Yes,Rarely,3,No
+Daily,Others,5,4,2 hours,4,Yes,Rarely,4,Yes
+Frequently,"Creative tasks (stories, ideas, designs)",5,3,1 hours,4,Sometimes,Rarely,4,Yes
+Never,Explanations,4,4,1 hours,5,Yes,Never,4,Yes
+Frequently,Others,5,5,1 hours,4,Yes,Always,4,Yes
